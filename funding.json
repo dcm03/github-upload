@@ -1,0 +1,68 @@
+{
+  "projectName": "Financial Literacy Ecosystem",
+  "description": "Building an ecosystem for financial literacy and learning through games like Monopoly and Cashflow boardgame",
+  "fundingRequirements": {
+    "totalAmount": 200000,
+    "currency": "USD",
+    "breakdown": [
+      {
+        "category": "Game Development",
+        "amount": 80000,
+        "description": "Development of digital versions of Monopoly and Cashflow boardgame with financial literacy features"
+      },
+      {
+        "category": "Content Creation",
+        "amount": 40000,
+        "description": "Creation of financial literacy content, including lesson plans and educational materials"
+      },
+      {
+        "category": "Marketing and Outreach",
+        "amount": 30000,
+        "description": "Promoting the ecosystem to schools, communities, and individuals"
+      },
+      {
+        "category": "Platform Development",
+        "amount": 50000,
+        "description": "Development of a platform to host and manage the financial literacy ecosystem"
+      },
+      {
+        "category": "Operations and Maintenance",
+        "amount": 20000,
+        "description": "Ongoing operations and maintenance of the ecosystem"
+      }
+    ]
+  },
+  "milestones": [
+    {
+      "name": "Game Development Completion",
+      "description": "Completion of digital game development",
+      "targetDate": "2024-12-31",
+      "fundingRequired": 80000
+    },
+    {
+      "name": "Content Creation Completion",
+      "description": "Completion of financial literacy content creation",
+      "targetDate": "2025-02-28",
+      "fundingRequired": 40000
+    },
+    {
+      "name": "Platform Launch",
+      "description": "Launch of the financial literacy ecosystem platform",
+      "targetDate": "2025-04-30",
+      "fundingRequired": 50000
+    }
+  ],
+  "impact": {
+    "description": "Improved financial literacy among individuals, especially youth, leading to better financial decision-making and stability",
+    "metrics": [
+      {
+        "name": "Number of Users",
+        "target": 10000
+      },
+      {
+        "name": "Financial Literacy Rate",
+        "target": 80
+      }
+    ]
+  }
+}
